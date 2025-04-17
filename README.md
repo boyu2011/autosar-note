@@ -13,5 +13,10 @@
 ![alt text](image-steer.png)
 # Adaptive Platform
 ![alt text](image-adaptive-platform.png)
+# Doc: Explanation of Sensor Interfaces
 ![alt text](image-ad-sensors-conn-to-ecu.png)
+# Doc: Explanation of Adaptive Platform Software Architecture
+## Example
+![alt text](image-adaptive-platform-sotware-update-interface.png)
+## Example 
 ![alt text](image-interface-file-storage.png)
