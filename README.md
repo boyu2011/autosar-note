@@ -1,3 +1,5 @@
+# Classic Platform vs Adaptive Platform
+![alt text](image-cp-vs-ap.png)
 # Classic Platform
 ![alt text](image-cp-archi.png)
 # Doc: Explanation of Application Interface of AD/ADAS vehicle motion control
